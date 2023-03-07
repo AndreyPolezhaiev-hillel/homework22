@@ -1,7 +1,7 @@
 /target
+/.idea
 
 .git
 *.iml
-*.xml
 
 bin
